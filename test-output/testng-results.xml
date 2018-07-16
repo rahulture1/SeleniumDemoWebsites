@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27522" started-at="2018-07-12T10:29:54Z" finished-at="2018-07-12T10:30:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27522" started-at="2018-07-12T10:29:54Z" finished-at="2018-07-12T10:30:22Z">
+      <class name="MouseHoverAndDropdown">
+        <test-method status="PASS" signature="dropdownvalues()[pri:0, instance:MouseHoverAndDropdown@3bfdc050]" name="dropdownvalues" duration-ms="27491" started-at="2018-07-12T15:59:54Z" finished-at="2018-07-12T16:00:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdownvalues -->
+      </class> <!-- MouseHoverAndDropdown -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
